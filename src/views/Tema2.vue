@@ -10,9 +10,9 @@
     .BGM02.px-md-5.px-4.mb-5
       .row.justify-content-center.align-items-center
         .col-lg-4.col-8.mb-lg-0.mb-4(data-aos="fade-right")
-          img(src='@/assets/curso/tema2/img01.png')
+          img(src='@/assets/curso/tema2/img01.png' alt="Imagen decorativa")
         .col-lg-8
-          p Para hacer la recolección de los residuos sólidos desde las viviendas de los usuarios hasta los puntos de disposición o de aprovechamiento se deben diseñar rutas para hacer los recorridos de forma eficiente .
+          p Para hacer la recolección de los residuos sólidos desde las viviendas de los usuarios hasta los puntos de disposición o de aprovechamiento se deben diseñar rutas para hacer los recorridos de forma eficiente.
           p De acuerdo con el Decreto 2981 (2013), cuando se habla de la división geográfica de una ciudad, zona o área de prestación del servicio para la distribución de los recursos y equipos a fin de optimizar la actividad de recolección de residuos, barrido y limpieza de vías y áreas públicas y/o corte de césped y poda de árboles ubicados en las vías y áreas públicas, se habla de macro ruta. Por otro lado, la descripción detallada a nivel de las calles y manzanas del trayecto de un vehículo o cuadrilla, para la prestación del servicio público de recolección de residuos; de barrido y limpieza de vías y áreas públicas; y/o corte de césped y poda de árboles ubicados en las vías y áreas públicas, dentro de una frecuencia predeterminada, se conoce como micro ruta.
           .cajon.color-acento-botones.p-4(data-aos="fade-left")
             p.mb-0 Para tener una visión global del recorrido que se debe realizar para la recolección de los residuos es necesario que el prestador del servicio diseñe las rutas de acuerdo con los requisitos obligatorios establecidos en el artículo 31 del decreto 2981 (2013). Estas rutas deberán cumplir con la eficiencia en la asignación de recursos físicos y humanos para lograr la productividad propia de un servicio competitivo.
@@ -29,25 +29,25 @@
           .col-lg-6.order-lg-1.order-2
             p.mb-0  Se deben definir los espacios, empleando planos topográficos y de infraestructura vial, es importante conocer las redes de servicio público existente, y cualquier otro detalle que pueda influir en la prestación del servicio de la zona. A partir del desarrollo de la espacialidad se puede lograr una articulación del servicio de aseo teniendo en cuenta los planes de desarrollo de cada municipio.          
           .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4
-            img(src='@/assets/curso/tema2/img06.png')
+            img(src='@/assets/curso/tema2/img06.png' alt="Imagen decorativa")
       .py-4.py-md-5(titulo="Cantidad" :icono="require('@/assets/curso/tema2/img03.svg')")
         .row.justify-content-around
           .col-lg-6.order-lg-1.order-2
             p.mb-0  Con el objetivo de determinar la cantidad de camiones de recolección o cuadrillas, se debe incluir en el plano las toneladas diarias de residuos sólidos por cada vivienda o contenedor, de acuerdo con el sistema de recolección previamente escogido.          
           .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4
-            img(src='@/assets/curso/tema2/img07.png')
+            img(src='@/assets/curso/tema2/img07.png' alt="Imagen decorativa")
       .py-4.py-md-5(titulo="Subdivisión" :icono="require('@/assets/curso/tema2/img04.svg')")
         .row.justify-content-around
           .col-lg-6.order-lg-1.order-2
             p.mb-0  Se debe establecer el área por zonas que en lo posible tengan el mismo uso, por ejemplo: residencial, comercial, industrial, etc.          
           .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4
-            img(src='@/assets/curso/tema2/img08.png')
+            img(src='@/assets/curso/tema2/img08.png' alt="Imagen decorativa")
       .py-4.py-md-5(titulo="Asignación de micro rutas" :icono="require('@/assets/curso/tema2/img05.svg')")
         .row.justify-content-around
           .col-lg-6.order-lg-1.order-2
             p.mb-0  Esta asignación debe en lo posible limitar el paso por cada calle a una vez.          
           .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4
-            img(src='@/assets/curso/tema2/img09.png')
+            img(src='@/assets/curso/tema2/img09.png' alt="Imagen decorativa")
     
     separador
     #t_2_2.titulo-segundo.color-acento-botones(data-aos="fade-right")
@@ -171,7 +171,7 @@
       .col-lg-6
         .row.justify-content-end
           .col-10
-            img(src='@/assets/curso/tema2/img10.svg')
+            img(src='@/assets/curso/tema2/img10.svg' alt="Imagen decorativa")
 
     separador
     #t_2_3.titulo-segundo.color-acento-botones(data-aos="fade-right")
@@ -182,7 +182,7 @@
  
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-4.col-8.mb-lg-0.mb-4(data-aos="fade-right")
-        img(src='@/assets/curso/tema2/img11.png')
+        img(src='@/assets/curso/tema2/img11.png' alt="Imagen decorativa")
       .col-lg-8(data-aos="fade-left")
         AcordionA.mb-5(tipo="a" clase-tarjeta="BGR17")
           div(titulo="Tipo de vía")
@@ -213,7 +213,7 @@
     .BG18.p-2.mb-5(data-aos="flip-up")
       .row.justify-content-center.align-items-center
         .col-lg-3.col-6.mb-lg-0.mb-4
-          img(src='@/assets/curso/tema2/img13.svg')
+          img(src='@/assets/curso/tema2/img13.svg' alt="Imagen decorativa")
         .col-lg-9.p-3
           p.mb-0 Es importante resaltar que se debe tener especial cuidado cuando la recolección se efectúe entre las 21:00 horas y las 06:00 horas del día siguiente en zonas residenciales, hoteles, hospitales, clínicas y demás centros asistenciales ya que en estos casos deberán tomarse medidas especiales para mitigar el ruido en la recolección y la compactación.
 
@@ -224,7 +224,7 @@
     .BG04.p-4.mb-5
       .row.justify-content-center.align-items-center
         .col-lg-1.col-2(data-aos="fade-right")
-          img(src='@/assets/curso/tema2/img14.svg')
+          img(src='@/assets/curso/tema2/img14.svg' alt="Imagen decorativa")
         .col(data-aos="fade-left")
           p.mb-0 De acuerdo con la presidencia de la república en su decreto 2981 (2013) Por el cual se reglamenta la prestación del servicio público de aseo. La frecuencia de recolección es el número de veces en un periodo definido que se presta el servicio.
 
@@ -234,7 +234,7 @@
       .col-lg-6.col-md-8.col-sm-10.mb-xl-0.mb-4(data-aos="fade-right")
         .tarjetas-up(@mouseover="mostrarIndicador = false")
           .indicador--hover(v-if="mostrarIndicador")
-          img(src='@/assets/curso/tema2/img15.png')
+          img(src='@/assets/curso/tema2/img15.png' alt="Imagen decorativa")
           .tarjetas-up_card.BG05.p-xl-4.p-lg-3.p-4
             .title.d-flex.align-items-center.justify-content-center.text-white.mb-4
               span
@@ -245,7 +245,7 @@
       .col-lg-6.col-md-8.col-sm-10.mb-xl-0.mb-4(data-aos="fade-left")
         .tarjetas-up(@mouseover="mostrarIndicador = false")
           .indicador--hover(v-if="mostrarIndicador")
-          img(src='@/assets/curso/tema2/img16.png')
+          img(src='@/assets/curso/tema2/img16.png' alt="Imagen decorativa")
           .tarjetas-up_card.BG06.p-xl-4.p-lg-3.p-4
             .title.d-flex.align-items-center.justify-content-center.text-white.mb-4
               span
@@ -262,7 +262,7 @@
         .titulo-sexto.color-secundario(data-aos="fade-right")
           h5 Tabla 1
           span Frecuencia de recolección mínima
-        table(data-aos="zoom-in")
+        table(data-aos="zoom-in" alt="Se muestran los diferentes equipos que se utilizan para la separación de resíduos y los elementos a utilizar")
           caption Nota. <a style="font-weight: 400">Tomado de Ministerio de Vivienda, Ciudad y Territorio. (2012) Reglamento técnico del sector de Agua potable y Saneamiento básico (RAS) título F. Sistemas de Aseo Urbano. [Tabla] (p. 68).</a>
           thead
             tr
@@ -311,7 +311,7 @@
     .BGM02.px-md-5.px-4.mb-5
       .row.justify-content-center.align-items-center
         .col-lg-4.col-8.mb-lg-0.mb-4(data-aos="fade-right")
-          img(src='@/assets/curso/tema2/img17.svg')
+          img(src='@/assets/curso/tema2/img17.svg' alt="Imagen decorativa")
         .col-lg-8(data-aos="fade-left")
           p Los usuarios como parte activan del sistema de aseo de cualquier municipio deben estar informados sobre las rutas y horarios que ejecutará el prestador del servicio, por esta razón en el artículo 34 del decreto 2981 (2013) se establece la responsabilidad del prestador del servicio en divulgar rutas, horarios y frecuencia de recolección y barrido las cuales deberán darse a conocer a los usuarios, utilizando medios masivos de difusión de amplia circulación local.
           p.mb-0 En las facturas de cobro del servicio público de aseo, deberá informarse las frecuencias de las diferentes actividades de recolección del servicio. El prestador del servicio deberá publicar en la página web las rutas y horarios de prestación de las diferentes actividades de recolección del servicio.
@@ -339,7 +339,7 @@
               i.fas.fa-check-circle(style="color: #4DB1F0;")
               | Incluso cuando se presente un caso de fuerza mayor la empresa prestadora del servicio público de aseo deberá implementar las medidas para restablecer el servicio en el menor tiempo posible.
         .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
-          img(src='@/assets/curso/tema2/img18.svg')
+          img(src='@/assets/curso/tema2/img18.svg' alt="Imagen decorativa")
 
 </template>
 

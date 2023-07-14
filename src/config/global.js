@@ -147,7 +147,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/prueba.pdf',
+        download: 'downloads/CFA17.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -163,19 +163,22 @@ export default {
   },
   complementario: [
     {
+      tema: 'Normatividad',
       referencia:
-        'Decreto 1077. Presidente de la república de Colombia. Bogotá. Colombia. 26 mayo 2015. ',
+        'Decreto 1077. Presidente de la república de Colombia. Bogotá. Colombia. 26 mayo 2015.',
       tipo: 'Normatividad',
       link:
         'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=77216',
     },
     {
+      tema: 'Desechos en recursos',
       referencia:
         'NotimexTV. (8 de octubre de 2019). Alerta ONU peligros por millones de toneladas de residuos urbanos. YouTube. [Video].',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=bw95wl8mJVo',
     },
     {
+      tema: 'Recursos Educativos Digitales SENA',
       referencia:
         'Ecosistema de Recursos Educativos Digitales SENA Elementos protección Personal - marzo 2023.',
       tipo: 'Video',
