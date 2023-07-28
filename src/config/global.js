@@ -275,18 +275,6 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nelly Parra Guarín',
-          cargo: 'Adecuación instruccional - 2023',
-          centro:
-            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
-        },
-        {
-          nombre: 'Alix Cecilia Chinchilla Rueda',
-          cargo: 'Metodología para la formación virtual',
-          centro:
-            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
-        },
-        {
           nombre: 'Xiomara Becerra Aldana',
           cargo: 'Instructora Ambiental',
           centro: 'Regional Distrito Capital - Centro de gestión industrial',
@@ -325,6 +313,18 @@ export default {
           centro:
             'Regional Santander - Centro Industrial del Diseño y la Manufactura',
         },
+        {
+          nombre: 'Nelly Parra Guarín',
+          cargo: 'Adecuación instruccional - 2023',
+          centro:
+            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+        },
+        {
+          nombre: 'Alix Cecilia Chinchilla Rueda',
+          cargo: 'Metodología para la formación virtual',
+          centro:
+            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+        },
       ],
     },
     {
@@ -332,13 +332,13 @@ export default {
       autores: [
         {
           nombre: 'Yazmín Rocío Figueroa Pacheco',
-          cargo: 'Diseñador web',
+          cargo: 'Diseñador web-2023',
           centro:
             'Centro de Gestión De Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
         {
           nombre: 'Diego Fernando Velasco Güiza',
-          cargo: 'Desarrollador Fullstack',
+          cargo: 'Desarrollador Fullstack-2023',
           centro:
             'Centro de Gestión De Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },

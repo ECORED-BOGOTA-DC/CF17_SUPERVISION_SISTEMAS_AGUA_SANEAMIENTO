@@ -262,45 +262,46 @@
         .titulo-sexto.color-secundario(data-aos="fade-right")
           h5 Tabla 1
           span Frecuencia de recolección mínima
-        table(data-aos="zoom-in" alt="Se muestran los diferentes equipos que se utilizan para la separación de resíduos y los elementos a utilizar")
-          caption Nota. <a style="font-weight: 400">Tomado de Ministerio de Vivienda, Ciudad y Territorio. (2012) Reglamento técnico del sector de Agua potable y Saneamiento básico (RAS) título F. Sistemas de Aseo Urbano. [Tabla] (p. 68).</a>
-          thead
-            tr
-              th(style="background-color: #00BCD4; width: 22%; font-size: 18px;" rowspan="2").text-center.text-white Nivel de complejidad
-              th(style="background-color: #00BCD4; width: 22%; font-size: 18px;" rowspan="2").text-center.text-white Temperatura
-              th(style="background-color: #00BCD4; width: 56%; font-size: 18px;" colspan="2").text-center.text-white Frecuencias de recolección mínimas (Veces/Semana)
-            tr
-              th(style="background-color: #80C7F4; font-size: 18px;").text-center De residuos presentados por los suscriptores
-              th(style="background-color: #80C7F4; font-size: 18px;").text-center De residuos producto del barrido de vías y limpieza de áreas públicas
-          tbody
-            tr
-              td(style="background-color: #F6F6F6;") Bajo
-              td(style="background-color: #F6F6F6;") Indiferente
-              td(style="background-color: #F6F6F6;" colspan="2").text-center 2 simultaneamente
-            tr
-              td(style="background-color: #FFF;") Medio
-              td(style="background-color: #FFF;") Indiferente
-              td(style="background-color: #FFF;" colspan="2").text-center 2 simultaneamente
-            tr
-              td(style="background-color: #F6F6F6;") Medio Alto
-              td(style="background-color: #F6F6F6;") Mayor o igual a 22 °C
-              td(style="background-color: #F6F6F6;").text-center 3
-              td(style="background-color: #F6F6F6;").text-center 1
-            tr
-              td(style="background-color: #FFF;") 
-              td(style="background-color: #FFF;") Menor de 22 °C
-              td(style="background-color: #FFF;").text-center 2
-              td(style="background-color: #FFF;").text-center 1
-            tr
-              td(style="background-color: #F6F6F6;") Alto *
-              td(style="background-color: #F6F6F6;") Mayor o igual a 22 °C
-              td(style="background-color: #F6F6F6;").text-center 3
-              td(style="background-color: #F6F6F6;").text-center 1
-            tr
-              td(style="background-color: #FFF;") 
-              td(style="background-color: #FFF;") Menor de 22 °C
-              td(style="background-color: #FFF;").text-center 2
-              td(style="background-color: #FFF;").text-center 1 *
+        .tabla-a.color-secundario
+          table(data-aos="zoom-in" alt="Se muestran los diferentes equipos que se utilizan para la separación de resíduos y los elementos a utilizar")
+            caption Nota. <a style="font-weight: 400">Tomado de Ministerio de Vivienda, Ciudad y Territorio. (2012) Reglamento técnico del sector de Agua potable y Saneamiento básico (RAS) título F. Sistemas de Aseo Urbano. [Tabla] (p. 68).</a>
+            thead(style="border-color: #00BCD4")
+              tr
+                th(style="background-color: #00BCD4; width: 22%; font-size: 18px;" rowspan="2").text-center.text-white Nivel de complejidad
+                th(style="background-color: #00BCD4; width: 22%; font-size: 18px;" rowspan="2").text-center.text-white Temperatura
+                th(style="background-color: #00BCD4; width: 56%; font-size: 18px;" colspan="2").text-center.text-white Frecuencias de recolección mínimas (Veces/Semana)
+              tr
+                th(style="background-color: #80C7F4; font-size: 18px;").text-center De residuos presentados por los suscriptores
+                th(style="background-color: #80C7F4; font-size: 18px;").text-center De residuos producto del barrido de vías y limpieza de áreas públicas
+            tbody
+              tr
+                td(style="background-color: #F6F6F6;") Bajo
+                td(style="background-color: #F6F6F6;") Indiferente
+                td(style="background-color: #F6F6F6;" colspan="2").text-center 2 simultaneamente
+              tr
+                td(style="background-color: #FFF;") Medio
+                td(style="background-color: #FFF;") Indiferente
+                td(style="background-color: #FFF;" colspan="2").text-center 2 simultaneamente
+              tr
+                td(style="background-color: #F6F6F6;") Medio Alto
+                td(style="background-color: #F6F6F6;") Mayor o igual a 22 °C
+                td(style="background-color: #F6F6F6;").text-center 3
+                td(style="background-color: #F6F6F6;").text-center 1
+              tr
+                td(style="background-color: #FFF;") 
+                td(style="background-color: #FFF;") Menor de 22 °C
+                td(style="background-color: #FFF;").text-center 2
+                td(style="background-color: #FFF;").text-center 1
+              tr
+                td(style="background-color: #F6F6F6;") Alto *
+                td(style="background-color: #F6F6F6;") Mayor o igual a 22 °C
+                td(style="background-color: #F6F6F6;").text-center 3
+                td(style="background-color: #F6F6F6;").text-center 1
+              tr
+                td(style="background-color: #FFF;") 
+                td(style="background-color: #FFF;") Menor de 22 °C
+                td(style="background-color: #FFF;").text-center 2
+                td(style="background-color: #FFF;").text-center 1 *
 
     p Todo cambio en las rutas, frecuencias y horarios debe ser notificado con anterioridad de mínimo 5 días a los usuarios atendidos. Si el día propuesto de recolección es festivo y la empresa de recolección no labora en ese día, ésta deberá diseñar un plan de contingencia de modo que la recolección se normalice en los siguientes 2 días.
 
