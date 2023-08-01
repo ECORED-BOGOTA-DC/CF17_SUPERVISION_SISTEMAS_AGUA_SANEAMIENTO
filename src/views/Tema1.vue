@@ -243,7 +243,7 @@
           h5 Figura 1.
           span Estructura de la vía
         figure(data-aos="zoom-in")
-          img(src='@/assets/curso/tema1/img18.svg' alt="Describe la estructura de la vía con el fin de tenerse en cuenta para el proceso de barrido")
+          img(src='@/assets/curso/tema1/img18.svg' alt="Describe la estructura de la vía, con el fin de tenerse en cuenta para el proceso de barrido. Muestra la cuneta, la calzada, el bode de la acera y la acera.")
     
     p.mb-5 La importancia de conocer esta estructura radica en el procedimiento para realizar el barrido:
 

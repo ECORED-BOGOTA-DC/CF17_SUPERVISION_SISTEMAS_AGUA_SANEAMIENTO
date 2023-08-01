@@ -7,7 +7,7 @@
     .row.justify-content-center
       .col-lg-10.mb-5
         figure
-          img(src="@/assets/curso/temas/sintesis.svg", alt="Síntesis que resume los temas abordados dentro del componente formativo")
+          img(src="@/assets/curso/temas/sintesis.svg", alt="Muestra la síntesis del componente formativo, caracterización del servicio público domiciliario de aseo, el barrido y lavado de las vías y micro macro rutas.")
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono
