@@ -52,7 +52,8 @@ export default {
           },
           {
             numero: '1.3',
-            titulo: 'Actores involucrados',
+            titulo:
+              'Actores involucrados en las actividades de servicio público',
             hash: 't_1_3',
           },
           {
@@ -147,7 +148,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/CFA17.pdf',
+        download: 'downloads/921200_CF17_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -163,24 +164,24 @@ export default {
   },
   complementario: [
     {
-      tema: 'Normatividad',
+      tema: 'Micro y macro rutas',
       referencia:
-        'Decreto 1077. Presidente de la república de Colombia. Bogotá. Colombia. 26 mayo 2015.',
+        'Sector Vivienda, Ciudad y Territorio. Bogotá. Colombia. Decreto 1077 26 mayo 2015.',
       tipo: 'Normatividad',
       link:
         'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=77216',
     },
     {
-      tema: 'Desechos en recursos',
+      tema: 'Micro y macro rutas',
       referencia:
         'NotimexTV. (8 de octubre de 2019). Alerta ONU peligros por millones de toneladas de residuos urbanos. YouTube. [Video].',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=bw95wl8mJVo',
     },
     {
-      tema: 'Recursos Educativos Digitales SENA',
+      tema: 'Micro y macro rutas',
       referencia:
-        'Ecosistema de Recursos Educativos Digitales SENA Elementos protección Personal - marzo 2023.',
+        'Ecosistema de Recursos Educativos Digitales SENA Elementos protección- marzo 2023.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=Oo-DlGcp3fY&t=3s',
     },
@@ -189,7 +190,7 @@ export default {
     {
       termino: 'Área pública',
       significado:
-        'es aquella destinada al uso, recreo o tránsito público, como parques, plazas, plazoletas y playas salvo aquellas con restricciones de acceso (Decreto 1077, 2015)',
+        'es aquella destinada al uso, recreo o tránsito público, como parques, plazas, plazoletas y playas salvo aquellas con restricciones de acceso (Decreto 1077, 2015).',
     },
     {
       termino: 'Barrido y limpieza de vías y áreas públicas',
@@ -251,7 +252,7 @@ export default {
     },
     {
       referencia:
-        'Resolución 709 de 2015. [Comisión de Regulación de Agua Potable y Saneamiento Básico (CRA)]. “Por la cual se regulan las condiciones generales de los acuerdos de barrido y limpieza, que los prestadores suscriban y se establece una metodología que permita calcular y asignar geográficamente los kilómetros de barrido y limpieza que corresponden a cada prestador en los casos en que se deben resolver controversias suscitadas entre los prestadores del servicio público de aseo que realicen la actividad de barrido y limpieza de vías y áreas públicas en un área de confluencia.  Bogotá. Colombia. 26 febrero 2015.',
+        'Resolución 709 de 2015. [Comisión de Regulación de Agua Potable y Saneamiento Básico (CRA)]. "Por la cual se regulan las condiciones generales de los acuerdos de barrido y limpieza, que los prestadores suscriban y se establece una metodología que permita calcular y asignar geográficamente los kilómetros de barrido y limpieza que corresponden a cada prestador en los casos en que se deben resolver controversias suscitadas entre los prestadores del servicio público de aseo que realicen la actividad de barrido y limpieza de vías y áreas públicas en un área de confluencia".  Bogotá. Colombia. 26 febrero 2015.',
     },
   ],
   creditos: [

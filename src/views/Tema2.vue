@@ -61,7 +61,7 @@
           .row.justify-content-end.mb-2
             .col-auto.BG14.py-2.px-3.me-2
               .h2.text-white.text-center.mb-0 1
-          p.mb-0 La micro ruta debe comenzar en el punto más cercano al garaje del vehículo y terminar en el punto más.
+          p.mb-0 La micro ruta debe comenzar en el punto más cercano al garaje del vehículo y terminar en el punto más cercano al sitio de disposición final de los residuos sólidos.
       .col-lg-3.col-sm-6.col-10.mb-4
         .tarjeta--boton.color-acento-contenido.BGR13S2.hg-02.px-3.pb-3
           .row.justify-content-end.mb-2
@@ -264,7 +264,7 @@
           span Frecuencia de recolección mínima
         .tabla-a.color-secundario
           table(data-aos="zoom-in" alt="Se muestran los diferentes equipos que se utilizan para la separación de resíduos y los elementos a utilizar")
-            caption Nota. <a style="font-weight: 400">Tomado de Ministerio de Vivienda, Ciudad y Territorio. (2012) Reglamento técnico del sector de Agua potable y Saneamiento básico (RAS) título F. Sistemas de Aseo Urbano. [Tabla] (p. 68).</a>
+            caption Nota. <span style="font-weight: 400">Tomado de Ministerio de Vivienda, Ciudad y Territorio. (2012) Reglamento técnico del sector de Agua potable y Saneamiento básico (RAS) título F. Sistemas de Aseo Urbano. [Tabla] (p. 68).</span>
             thead(style="border-color: #00BCD4")
               tr
                 th(style="background-color: #00BCD4; width: 22%; font-size: 18px;" rowspan="2").text-center.text-white Nivel de complejidad
@@ -277,18 +277,18 @@
               tr
                 td(style="background-color: #F6F6F6;") Bajo
                 td(style="background-color: #F6F6F6;") Indiferente
-                td(style="background-color: #F6F6F6;" colspan="2").text-center 2 simultaneamente
+                td(style="background-color: #F6F6F6;" colspan="2").text-center 2 simultáneamente
               tr
                 td(style="background-color: #FFF;") Medio
                 td(style="background-color: #FFF;") Indiferente
-                td(style="background-color: #FFF;" colspan="2").text-center 2 simultaneamente
+                td(style="background-color: #FFF;" colspan="2").text-center 2 simultáneamente
               tr
                 td(style="background-color: #F6F6F6;") Medio Alto
                 td(style="background-color: #F6F6F6;") Mayor o igual a 22 °C
                 td(style="background-color: #F6F6F6;").text-center 3
                 td(style="background-color: #F6F6F6;").text-center 1
               tr
-                td(style="background-color: #FFF;") 
+                td(style="background-color: #FFF;") Medio Alto
                 td(style="background-color: #FFF;") Menor de 22 °C
                 td(style="background-color: #FFF;").text-center 2
                 td(style="background-color: #FFF;").text-center 1
@@ -298,7 +298,7 @@
                 td(style="background-color: #F6F6F6;").text-center 3
                 td(style="background-color: #F6F6F6;").text-center 1
               tr
-                td(style="background-color: #FFF;") 
+                td(style="background-color: #FFF;") Alto
                 td(style="background-color: #FFF;") Menor de 22 °C
                 td(style="background-color: #FFF;").text-center 2
                 td(style="background-color: #FFF;").text-center 1 *

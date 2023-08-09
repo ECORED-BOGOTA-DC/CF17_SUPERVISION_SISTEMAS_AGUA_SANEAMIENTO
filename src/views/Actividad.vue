@@ -11,7 +11,7 @@
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
           h2 Barriendo las mentiras
-        p.mb-4 Apropiar conceptos relacionadas con las labores de barrido, limpieza de vías y áreas públicas de acuerdo con la normatividad con el fin de profundizar en los sistemas de aseo y los procedimientos particulares para el desarrollo de éstos.
+        p.mb-4 Apropiar conceptos relacionados con las labores de barrido, limpieza de vías y áreas públicas de acuerdo con la normatividad con el fin de profundizar en los sistemas de aseo y los procedimientos particulares para el desarrollo de éstos.
  
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            

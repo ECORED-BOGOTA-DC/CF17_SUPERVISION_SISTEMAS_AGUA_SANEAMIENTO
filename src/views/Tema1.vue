@@ -128,7 +128,7 @@
           ul.lista-ul--color.lista-ul--separador
             li.d-flex(style="margin-bottom: 2px")
               i.fas.fa-check-circle(style="color: #4DB1F0;")
-              | La responsabilidad en barrido y limpieza de vías y áreas públicas es de la persona prestadora del servicio público de aseo en el área de prestación donde realice las actividades de recolección y transporte. La prestación de este componente en todo caso deberá realizarse de acuerdo con la frecuencia y horarios establecidos en el programa para la prestación del servicio público de aseo, y cumpliendo con las exigencias establecidas en el Plan de Gestión Integral de Residuos Sólidos (Pgirs) del respectivo municipio o distrito.
+              | La responsabilidad en barrido y limpieza de vías y áreas públicas es de la persona prestadora del servicio público de aseo en el área de prestación donde realice las actividades de recolección y transporte. La prestación de este componente en todo caso deberá realizarse de acuerdo con la frecuencia y horarios establecidos en el programa para la prestación del servicio público de aseo, y cumpliendo con las exigencias establecidas en el Plan de Gestión Integral de Residuos Sólidos (PGIRS) del respectivo municipio o distrito.
             li.d-flex(style="margin-bottom: 2px")
               i.fas.fa-check-circle(style="color: #4DB1F0;")
               | La determinación de los kilómetros a barrer deberá tener en cuenta las frecuencias de barrido y en calles no pavimentadas y en áreas donde no sea posible realizar el barrido por sus características físicas, se desarrollarán labores de limpieza manual.
@@ -235,7 +235,7 @@
     .row.justify-content-center.img-01
       .col-lg-10(data-aos="flip-up")
         .BGR11.p-4
-          p.mb-0 En lugares públicos como vías de circulación de vehículos o de peatones, siempre se debe considerar que estas vías usualmente se encuentran pavimentadas, lo que se conoce como la calzada y las aceras, estas aceras siempre se encontraran un poco elevadas y separadas de la calzada.
+          p.mb-0 En lugares públicos como vías de circulación de vehículos o de peatones, siempre se debe considerar que estas vías usualmente se encuentran pavimentadas, lo que se conoce como la calzada y las aceras, estas aceras siempre se encontrarán un poco elevadas y separadas de la calzada.
 
     .row.justify-content-center.mb-5
       .col-lg-8
@@ -287,7 +287,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/tema1/img23.jpg')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 Le corresponde al prestador del servicio que fue asignado a una zona, realizar limpieza de playas, parques y ríos que encuentre y sean considerados de la ciudad o públicos siempre y cuando estos no estén nombrados a otras entidades para las acciones de limpieza. <br><br>Dentro de estas zonas cuando aplique, se debe velar por la recolección de residuos, poda y limpieza general.
+        p.mb-0 Le corresponde al prestador del servicio que fue asignado a una zona, realizar limpieza de playas, parques y ríos que encuentre y sean considerados de la ciudad o públicos siempre y cuando estos no estén normados a otras entidades para las acciones de limpieza. <br><br>Dentro de estas zonas cuando aplique, se debe velar por la recolección de residuos, poda y limpieza general.
 
     ul.lista-ul--color.mb-5
       li.d-flex(style="margin-bottom: 2px")
@@ -338,7 +338,7 @@
         .col-lg-5.col-10.mb-lg-0.mb-4(data-aos="fade-right")
           img(src='@/assets/curso/tema1/img25.png' alt="Imagen decorativa")
         .col-lg-7(data-aos="fade-left")
-          p.mb-0 Se debe contar con personal capacitado para la realización de las actividades puntuales, en este caso se puede mencionar barredores de calles, conductores y colectores en vehículos compactadores y de recolección, operario de la máquina barredora, operarios de separación o disposición de residuos, supervisiones de cuadrillas (equipos de trabajo por zona) entre otros.
+          p.mb-0 Se debe contar con personal capacitado para la realización de las actividades puntuales, en este caso se puede mencionar barredores de calles, conductores y colectores en vehículos compactadores y de recolección, operario de la máquina barredora, operarios de separación o disposición de residuos, supervisiones de cuadrillas (equipos de trabajo por zona), entre otros.
 
     ul.lista-ul--color.mb-5
       li.d-flex(style="margin-bottom: 2px")
@@ -373,9 +373,9 @@
     
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-8.order-lg-1.order-2(data-aos="fade-right")
-        p Siempre amparados en la normatividad legal vigente, se debe otorgar a los empleados o personas que realizarán las actividades los elementos de protección individual que sean necesarios, dependiendo de los residuos o actividades de limpieza y aseo que se vayan a ejecutar, dentro de los cuales se contempla, botas, guantes, gafas, casco, tapabocas, overoles entre otros.
+        p Siempre amparados en la normatividad legal vigente, se debe otorgar a los empleados o personas que realizarán las actividades los elementos de protección individual que sean necesarios, dependiendo de los residuos o actividades de limpieza y aseo que se vayan a ejecutar, dentro de los cuales se contempla, botas, guantes, gafas, casco, tapabocas, overoles, entre otros.
         .cajon.color-acento-botones.p-4
-          p.mb-0 Dentro de los elementos también se debe garantizar, la señalización requerida para salvaguardar a las personas, dentro de ellas se encuentra conos de señal de precaución, señales móviles de personal trabajando, chalecos reflectivos entre otros.
+          p.mb-0 Dentro de los elementos también se debe garantizar, la señalización requerida para salvaguardar a las personas, dentro de ellas se encuentra conos de señal de precaución, señales móviles de personal trabajando, chalecos reflectivos, entre otros.
       .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
         img(src='@/assets/curso/tema1/img28.png' alt="Imagen decorativa")
       
